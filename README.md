@@ -1,6 +1,6 @@
 Java Threads Overview
 
-Introduction
+Intro
 
 Java Threads are a fundamental feature of the Java programming language that allow concurrent execution of tasks. A thread represents a separate flow of control within a program, enabling developers to execute multiple operations concurrently, improving performance and responsiveness.
 
