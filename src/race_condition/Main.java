@@ -3,6 +3,11 @@ package race_condition;
 import java.util.Arrays;
 
 public class Main {
+    private int smth;
+
+    public Main(int smth){
+        this.smth = smth;
+    }
     public static void main(String[] args) {
 
     }
